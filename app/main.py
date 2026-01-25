@@ -18,3 +18,4 @@ app.include_router(user_router, prefix="/api/v1", tags=["users"])
 async def root():
     """Endpoint raíz que retorna un mensaje de bienvenida."""
     return {"message": "Hola Nexus-Core"}
+# v1.0 Release
