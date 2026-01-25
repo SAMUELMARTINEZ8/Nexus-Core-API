@@ -52,3 +52,18 @@ La API estará disponible en: http://localhost:8000
 
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
+
+---
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir qué te gustaría cambiar.
+
+## 🎓 Créditos
+
+Este proyecto implementa una **Clean Architecture** moderna.
+* **Stack:** Python 3.10+, FastAPI.
+* **Herramientas:** Cursor AI, Git.
+
+---
+*Desarrollado por Samuel Martinez* 🐵
