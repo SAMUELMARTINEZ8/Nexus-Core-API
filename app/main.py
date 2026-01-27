@@ -19,3 +19,4 @@ async def root():
     """Endpoint raíz que retorna un mensaje de bienvenida."""
     return {"message": "Hola Nexus-Core"}
 # v1.0 Release
+# v1.0 Release
