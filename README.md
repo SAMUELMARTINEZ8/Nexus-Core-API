@@ -2,7 +2,7 @@
 
 API robusta y escalable construida con FastAPI siguiendo principios de Clean Architecture.
 
-## Estructura del Proyecto
+## Estructura del Proyecto 
 
 ```
 Nexus-Core-API/
